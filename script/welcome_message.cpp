@@ -9,7 +9,7 @@ namespace gazebo
 		// Constructor for WorldPluginMyRobot
 		WorldPluginMyRobot() : WorldPlugin()
 		{
-			printf("Welcome to ’s World! \n");
+			printf("Welcome new world where you will see autonomous slave robot! \n");
 		}
 	public:
 		// Load function is called by Gazebo when loading the plugin
